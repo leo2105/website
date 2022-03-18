@@ -1,21 +1,21 @@
 # Site settings
-title: Thomas Zühlke
-description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+title: Leonardo Leon
+description: 'Blog'
+url: 'https://leo2105.github.io/website/'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/leonardo-leon.png'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
-#  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  name: 'Leonardo Leon'
+  email: lleonv@uni.pe
+  twitter_username: _lleonv
+  facebook_username: Lleonv20
+  github_username:  leo2105
+  linkedin_username:  lleonv
+  #meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
 destination: _site
