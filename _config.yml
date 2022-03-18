@@ -2,7 +2,7 @@
 title: Leonardo Leon
 description: 'Blog'
 url: 'https://leo2105.github.io/website/'
-baseurl: ''
+baseurl: '/website'
 profilepic: '/images/leonardo-leon.png'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
